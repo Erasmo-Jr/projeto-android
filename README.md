@@ -1,13 +1,9 @@
-# Projeto Android (UI Simulation)
+# Projeto Android
 
-Projeto front-end desenvolvido para simular a interface de um aplicativo Android utilizando tecnologias web.
+Página informativa sobre o Android desenvolvida com HTML e CSS, com foco em organização visual e responsividade.
 
 ## Tecnologias
-- HTML5
-- CSS3
+HTML5 • CSS3
 
-## Objetivo
-Aplicar conceitos de layout responsivo, organização visual e estrutura semântica.
-
-## Demonstração
+## Acesse
 https://erasmo-jr.github.io/projeto-android/
