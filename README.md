@@ -2,6 +2,10 @@
 
 Página informativa sobre o Android desenvolvida com HTML e CSS, com foco em organização visual e responsividade.
 
+<p align="center">
+  <img src="preview.png" width="800">
+</p>
+
 ## Tecnologias
 HTML5 • CSS3
 
