@@ -3,7 +3,7 @@
 Página informativa sobre o Android desenvolvida com HTML e CSS, com foco em organização visual e responsividade.
 
 <p align="center">
-  <img src="preview.png" width="800">
+  <img src="projeto-android%20imagem%20capa.png" width="800">
 </p>
 
 ## Tecnologias
